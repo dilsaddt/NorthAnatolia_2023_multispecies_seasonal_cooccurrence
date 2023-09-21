@@ -47,7 +47,7 @@ Three different models were applied with season, rural human population density,
 These models each had their own folders as:
 - additive (add) = season + rural human population density + elevaiton
 - interaction 1 (int1) = season * rural human population density
-- and interaction 2 (int2) season * elevaiton
+- interaction 2 (int2) season * elevation
 
 cctocl_dynamic_<model_type>_072023.txt = JAGS model text file for the named model type
 
