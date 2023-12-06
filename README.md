@@ -14,6 +14,8 @@ In total seven predator-prey pairs were analyzed:
 
 Here, as an example only the analysis of gray wolf (_Canis lupus_) and roe deer (_Capreolus capreolus_) is given. 
 
+camera_trap_activity.xlsx is the table for how many days a camera was working within a month. Used for creating _number of days_ variable, which was the random effect in the models.
+
 ## Folders
 
 ### Static_framework folder
